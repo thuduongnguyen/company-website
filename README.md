@@ -1,7 +1,7 @@
 #   Company Website
 
 ### Deployment
-Link:
+Link: https://thuduongnguyen.github.io/company-website/
 
 ### Technique
 - HTML
